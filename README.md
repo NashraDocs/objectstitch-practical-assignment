@@ -27,4 +27,4 @@ python experiment1_foreground_coverage.py
 
 🔗 Paper Reference
 
-Original GitHub: https://github.com/bcmi/ObjectStitch-Image-Composition
+# Original GitHub: https://github.com/bcmi/ObjectStitch-Image-Composition
