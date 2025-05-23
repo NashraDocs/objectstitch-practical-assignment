@@ -1,5 +1,6 @@
 # objectstitch-practical-assignment
-# ObjectStitch Practical Assignment
+# original github link:
+https://github.com/bcmi/ObjectStitch-Image-Composition
 
 This repository contains code for the EE6180 Practical Assignment on **ObjectStitch: Object Compositing with Diffusion Models**. It includes:
 
